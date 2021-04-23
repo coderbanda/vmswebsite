@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/vmswebsite/static/css/main.24a5a1d7.chunk.css",
+    "main.js": "/vmswebsite/static/js/main.9655dd0d.chunk.js",
+    "main.js.map": "/vmswebsite/static/js/main.9655dd0d.chunk.js.map",
+    "runtime-main.js": "/vmswebsite/static/js/runtime-main.78b7f57e.js",
+    "runtime-main.js.map": "/vmswebsite/static/js/runtime-main.78b7f57e.js.map",
+    "static/js/2.0e9d64ed.chunk.js": "/vmswebsite/static/js/2.0e9d64ed.chunk.js",
+    "static/js/2.0e9d64ed.chunk.js.map": "/vmswebsite/static/js/2.0e9d64ed.chunk.js.map",
+    "index.html": "/vmswebsite/index.html",
+    "static/css/main.24a5a1d7.chunk.css.map": "/vmswebsite/static/css/main.24a5a1d7.chunk.css.map",
+    "static/js/2.0e9d64ed.chunk.js.LICENSE.txt": "/vmswebsite/static/js/2.0e9d64ed.chunk.js.LICENSE.txt",
+    "static/media/1.1f0c6034.jpg": "/vmswebsite/static/media/1.1f0c6034.jpg",
+    "static/media/2.8037d91c.jpg": "/vmswebsite/static/media/2.8037d91c.jpg",
+    "static/media/3.e19fe1f2.jpg": "/vmswebsite/static/media/3.e19fe1f2.jpg",
+    "static/media/mission.c0f51c0f.jpg": "/vmswebsite/static/media/mission.c0f51c0f.jpg",
+    "static/media/vision.bae2b434.jpg": "/vmswebsite/static/media/vision.bae2b434.jpg",
+    "static/media/visitor.9b93558f.png": "/vmswebsite/static/media/visitor.9b93558f.png",
+    "static/media/visitor_2.cffb707f.png": "/vmswebsite/static/media/visitor_2.cffb707f.png",
+    "static/media/visitor_3.8b05e0f8.png": "/vmswebsite/static/media/visitor_3.8b05e0f8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78b7f57e.js",
+    "static/js/2.0e9d64ed.chunk.js",
+    "static/css/main.24a5a1d7.chunk.css",
+    "static/js/main.9655dd0d.chunk.js"
+  ]
+}
