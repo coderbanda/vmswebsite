@@ -6,6 +6,12 @@
   width: 56vw;
 }
 
+@media (max-width:400px){
+  .card{
+    display: block!important;
+    margin-left: 2.7rem!important;
+  }
+}
 
 .form-control:focus{
   box-shadow:none !important;
